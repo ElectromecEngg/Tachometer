@@ -1,0 +1,302 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\alam_\Desktop\AHL RPM METER\PLOT REPORT.txt
+Report Written:     Friday, May 17, 2024
+Design Path:        C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3.pcb
+Design Title:       
+Created:            9/10/2004 3:07:09 PM
+Last Saved:         5/17/2024 7:25:42 PM
+Editing Time:       9233 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1 1    Format 3.5 absolute in mm.
+    No zero suppression.    Format 3.5 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Top Silk.gbr
+
+    Layers:
+    ------------------
+    Top Silk
+    Top Copper
+    Bottom Copper
+    Bottom Silk
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D11    Round 25.00
+    D15    Round 1.00
+    D71    Rectangle 49.00 X 69.00
+    D20    Round 6.00
+    D92    Oval 62.99 X 88.58  Rotation 90
+    D93    Round 39.59
+    D97    Octagon 236.22
+    D99    Round 78.74
+    D102   Round 29.53
+    D110   Rectangle 49.00 X 69.00  Rotation 90
+    D111   Oval 60.00 X 110.00
+    D112   Rectangle 55.00 X 80.00
+    D113   Rectangle 55.00 X 60.00  Rotation 90
+    D114   Oval 59.84 X 98.43
+    D115   Oval 60.00 X 120.00
+    D116   Rectangle 55.00 X 60.00
+    D117   Square 63.00
+    D131   Oval 110.24 X 149.61
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Top Copper.gbr
+
+    Layers:
+    ------------------
+    Top Silk
+    Bottom Copper
+    Bottom Silk
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D11    Round 25.00
+    D15    Round 1.00
+    D71    Rectangle 49.00 X 69.00
+    D20    Round 6.00
+    D92    Oval 62.99 X 88.58  Rotation 90
+    D93    Round 39.59
+    D97    Octagon 236.22
+    D99    Round 78.74
+    D102   Round 29.53
+    D110   Rectangle 49.00 X 69.00  Rotation 90
+    D111   Oval 60.00 X 110.00
+    D112   Rectangle 55.00 X 80.00
+    D113   Rectangle 55.00 X 60.00  Rotation 90
+    D114   Oval 59.84 X 98.43
+    D115   Oval 60.00 X 120.00
+    D116   Rectangle 55.00 X 60.00
+    D117   Square 63.00
+    D131   Oval 110.24 X 149.61
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D78    Rectangle 59.00 X 79.00
+    D96    Oval 72.99 X 98.58  Rotation 90
+    D103   Octagon 236.22
+    D105   Round 88.74
+    D118   Rectangle 59.00 X 79.00  Rotation 90
+    D119   Oval 70.00 X 120.00
+    D120   Oval 69.84 X 108.43
+    D121   Oval 70.00 X 130.00
+    D132   Oval 120.24 X 159.61
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D81    Rectangle 45.00 X 65.00
+    D122   Rectangle 45.00 X 65.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D11    Round 25.00
+    D71    Rectangle 49.00 X 69.00
+    D92    Oval 62.99 X 88.58  Rotation 90
+    D93    Round 39.59
+    D97    Octagon 236.22
+    D99    Round 78.74
+    D102   Round 29.53
+    D110   Rectangle 49.00 X 69.00  Rotation 90
+    D111   Oval 60.00 X 110.00
+    D112   Rectangle 55.00 X 80.00
+    D113   Rectangle 55.00 X 60.00  Rotation 90
+    D114   Oval 59.84 X 98.43
+    D115   Oval 60.00 X 120.00
+    D116   Rectangle 55.00 X 60.00
+    D117   Square 63.00
+    D131   Oval 110.24 X 149.61
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D78    Rectangle 59.00 X 79.00
+    D96    Oval 72.99 X 98.58  Rotation 90
+    D103   Octagon 236.22
+    D105   Round 88.74
+    D118   Rectangle 59.00 X 79.00  Rotation 90
+    D119   Oval 70.00 X 120.00
+    D120   Oval 69.84 X 108.43
+    D121   Oval 70.00 X 130.00
+    D123   Rectangle 65.00 X 90.00
+    D124   Rectangle 65.00 X 70.00  Rotation 90
+    D125   Rectangle 65.00 X 70.00
+    D126   Square 73.00
+    D132   Oval 120.24 X 159.61
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D81    Rectangle 45.00 X 65.00
+    D122   Rectangle 45.00 X 65.00  Rotation 90
+    D127   Rectangle 51.00 X 76.00
+    D128   Rectangle 51.00 X 56.00  Rotation 90
+    D129   Rectangle 51.00 X 56.00
+    D130   Square 59.00
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Bottom Silk.gbr
+
+    Layers:
+    ---------------
+    Bottom Silk
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D20    Round 6.00
+
+NC Drill Output
+===============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02756 in 9     E
+    T002  000.03189 in 9     B
+    T003  000.03200 in 74    D
+    T004  000.05906 in 9     A
+    T005  000.11811 in 4     C
+    ------------------------------------
+    Total              105
+    ------------------------------------
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\alam_\Desktop\AHL RPM METER\AHL ENGINE RPM3 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    59    Y      100  Round A
+    32    Y      100  Round B
+    118   Y      100  Round C
+    32    Y      100  Round D
+    28    Y      100  Round E
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D83    Round 100.00
+
+End Of Report.
